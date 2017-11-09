@@ -2,4 +2,6 @@ body{
 	background-color: blue;
 	font-size:15px;
 	color:red;
+
+	list-style: dotted;
 }
